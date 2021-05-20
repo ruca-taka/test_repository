@@ -3,3 +3,5 @@ edit 02
 edit 03
 edit 04
 edit 05
+
+新人Bさん. edit develop_01
